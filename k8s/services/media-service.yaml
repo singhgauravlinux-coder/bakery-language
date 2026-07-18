@@ -24,7 +24,7 @@ spec:
           type: RuntimeDefault
       containers:
         - name: media-service
-          image: ghcr.io/singhgauravlinux-coder/bakery-language/media-service:b4e662a
+          image: ghcr.io/singhgauravlinux-coder/bakery-language/media-service:59d7b5c
           imagePullPolicy: Always
           ports:
             - containerPort: 3020
