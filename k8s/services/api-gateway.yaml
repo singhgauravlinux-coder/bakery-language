@@ -24,7 +24,7 @@ spec:
           type: RuntimeDefault
       containers:
         - name: api-gateway
-          image: ghcr.io/singhgauravlinux-coder/bakery-language/api-gateway:59d7b5c
+          image: ghcr.io/singhgauravlinux-coder/bakery-language/api-gateway:42181e4
           imagePullPolicy: Always
           ports:
             - containerPort: 3000
